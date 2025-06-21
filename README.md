@@ -1,52 +1,93 @@
-<h1 align="center">Hi 👋, I'm Harsha Vardhan Reddy Avula</h1>
-<h3 align="center">Final Year B.Tech (AI & ML) | Passionate AI/ML Developer | Full Stack Enthusiast</h3>
+<!-- Harsha's Stylish GitHub README -->
 
----
-
-🌱 Currently interning at **Infotact Solutions**  
-📌 Actively building intelligent applications in AI, ML, and full-stack domains  
-💡 Exploring NLP, Computer Vision, and Generative AI  
-📫 Contact me: aharsha853@gmail.com
-
----
-
-### 🛠️ Technologies & Tools
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-
----
-
-### 📊 GitHub Stats
+<h1 align="center">🌟 Hi there! I'm Harsha Vardhan Reddy 🚀</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshaVardhan8a&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HarshaVardhan8a&theme=tokyonight" alt="GitHub streak" />
+  Welcome to my digital workspace where creativity meets code, and curiosity leads innovation! 👨‍💻✨
 </p>
 
 ---
 
-### 📌 Pinned Projects
-- 🧠 Multi Disease Predictor (ML with UI)
-- 💓 5-Year Heart Risk Prediction (SVM & RF)
-- 📰 Fake News Detection (NLP Hackathon)
-- 🌐 AI Website Builder (Gemini API + React)
+## 🧑‍💻 About Me
+
+🎓 Final Year B.Tech (AI & ML) Student | Woxsen University, Hyderabad 🇮🇳  
+⚡ Passionate AI/ML Developer | Building real-world projects using Python, Flask, ML & full-stack tools  
+🤖 AI Enthusiast | Deep Learning, NLP, and Generative AI with Gemini API & OpenAI  
+💡 Problem Solver | I enjoy cracking real-life challenges with scalable, smart solutions  
+🛠️ Creator | Currently working on AI-based web tools, healthcare analytics, and automation apps
 
 ---
 
-### 🔗 Connect with Me
+## 💻 Projects That Define Me
 
-- [LinkedIn](https://www.linkedin.com/in/HarshaVardhan8a)
-- [GitHub](https://github.com/HarshaVardhan8a)
-- 📧 aharsha853@gmail.com
+🔬 **Multi-Disease Prediction System**  
+> Built using Python, SVM & Logistic Regression to predict multiple illnesses like diabetes and heart conditions. Clean UI with live prediction.
+
+🧠 **Heart Disease 5-Year Risk Predictor**  
+> Used Random Forest and SVM on real datasets to assess long-term risk; achieved strong evaluation metrics.
+
+📰 **Fake News Detection** (Hackathon Project)  
+> NLP-powered tool to classify fake vs real news articles using preprocessed datasets and classification models.
+
+🌐 **AI Website Generator** (Gemini API + React)  
+> Built an intelligent site builder using prompts — full-stack app using Gemini, Node.js, React, and HTML/CSS.
+
+🚨 **Accident Detection System**  
+> C-language + Arduino-based real-time car crash detector with live SMS alerts to hospitals and emergency contacts.
 
 ---
 
-*“Learning never exhausts the mind.” – Leonardo da Vinci*
+## 🛠️ Tech Stack
+
+**Languages & Frameworks:**  
+- Python 🐍 | JavaScript ⚡ | C | Java ☕ | PHP  
+- Flask | React | Node.js | HTML/CSS | Gemini API  
+
+**AI/ML Tools:**  
+- TensorFlow 🤖 | Scikit-learn 📈 | Pandas | NumPy | OpenAI API | Hugging Face 🤗   
+- Vision: OpenCV | CNN  
+
+**Database & Platforms:**  
+- MySQL 🐬 |  MongoDB 🍃  
+- PowerApps | GitHub | Metasploit | Wireshark  
+
+**Visualization:**  
+- Matplotlib 📉 | Seaborn 📊  
+
+---
+
+## 🌟 Achievements & Highlights
+
+🎯 Selected Intern at **Infotact Solutions** (2025) – Data Science & ML  
+🚀 Built 5+ AI/ML projects with end-to-end deployment  
+📜 Currently exploring LangChain, Gemini API, and AI-based app integration  
+🏆 Always curious, always building something impactful!
+
+---
+
+## 💼 Experience
+
+🧠 **AI/ML Intern — Infotact Solutions (Current)**  
+- Working on real-world datasets, collaborating with cross-functional teams.  
+- Weekly performance reviews with scope for PPO.  
+- Gaining experience in EDA, model building, and deployment.
+
+---
+
+## 📬 Let’s Connect
+
+- 📧 Email: aharsha853@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/harsha-vardhan-reddy-avula-a7814325a/)  
+- 💻 [GitHub](https://github.com/HarshaVardhan8a)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshaVardhan8a&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HarshaVardhan8a&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+> "Code is the language of ideas. I write solutions that speak clarity." – Harsha ✨
