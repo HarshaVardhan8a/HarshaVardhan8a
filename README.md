@@ -82,12 +82,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshaVardhan8a&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HarshaVardhan8a&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
 > "Code is the language of ideas. I write solutions that speak clarity." – Harsha ✨
