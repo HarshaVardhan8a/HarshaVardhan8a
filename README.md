@@ -35,6 +35,8 @@
 🚨 **Accident Detection System**  
 > C-language + Arduino-based real-time car crash detector with live SMS alerts to hospitals and emergency contacts.
 
+🎨 **Figma Design-To-Code Generator**  
+> React-based web interface that takes a Figma design key and generates frontend code (HTML, CSS, React, Vue, or Angular) using backend APIs. Simplifies developer handoff by converting UI designs into clean, usable code.
 ---
 
 ## 🛠️ Tech Stack
