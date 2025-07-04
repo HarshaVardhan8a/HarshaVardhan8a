@@ -67,15 +67,6 @@
 
 ---
 
-## 💼 Experience
-
-🧠 **AI/ML Intern — Infotact Solutions (Current)**  
-- Working on real-world datasets, collaborating with cross-functional teams.  
-- Weekly performance reviews with scope for PPO.  
-- Gaining experience in EDA, model building, and deployment.
-
----
-
 ## 📬 Let’s Connect
 
 - 📧 Email: aharsha853@gmail.com  
